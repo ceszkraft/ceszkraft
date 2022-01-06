@@ -9,6 +9,7 @@
 - 📫 How to reach me: cesz_@live.com
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Learning German since 2015 :)
+- proud to use <img alt="ceszkraft-linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 ## 
 <div align="center">
   <a href="https://github.com/ceszkraft">
@@ -25,7 +26,8 @@
   <img align="center" alt="ceszkraft-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ceszkraft-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ceszkraft-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="ceszkraft-linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  </div>
+  
 
    ##
    
